@@ -1,4 +1,4 @@
-## ecommerce_sentiment_analysis
+## E-commerce sentiment analysis using NLP
 
 This project is about exploring topic modelings and unsupervised machine learning by analyzing e-commerce clothings reviews.
 
